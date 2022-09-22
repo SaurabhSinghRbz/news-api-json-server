@@ -1,1 +1,1 @@
-# fake-product-api-json-server
+# news-api-json-server
